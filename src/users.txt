@@ -1,0 +1,5 @@
+A1001,Ying,password123,Student
+A1002,Jackson,password456,Faculty
+A1003,Bei,password789,PublicMember
+A001,Yap,yapyapyap,Student
+A1004,Qing,password0321,PublicMember

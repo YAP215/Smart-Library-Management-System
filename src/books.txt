@@ -1,0 +1,9 @@
+B1001,Blink,Malcolm Gladwell,978000111,Psychology,Available
+B1002,Drive,Daniel H. Pink,978000222,Motivation,On Loan
+B1003,Grit,Angela Duckworth,978000333,Self-Improvement,Available
+B1004,Nature Journal Vol.1,Various Authors,978100444,Journal,On Loan
+B1005,Science Journal Vol.2,Various Authors,978100555,Journal,On Loan
+B1006,Medical Journal Vol.3,Various Authors,978100666,Journal,On Loan
+B1007,Java Programming PDF,James Gosling,978200111,Digital Resource,On Loan
+B1008,Data Science eBook,Andrew Ng,978200222,Digital Resource,On Loan
+B1009,AI Fundamentals Guide,Stuart Russell,978200333,Digital Resource,Available
